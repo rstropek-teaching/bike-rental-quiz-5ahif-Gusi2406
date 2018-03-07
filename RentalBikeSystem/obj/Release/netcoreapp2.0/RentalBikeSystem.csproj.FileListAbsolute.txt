@@ -1,0 +1,11 @@
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\bin\Release\netcoreapp2.0\RentalBikeSystem.deps.json
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\bin\Release\netcoreapp2.0\RentalBikeSystem.runtimeconfig.json
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\bin\Release\netcoreapp2.0\RentalBikeSystem.runtimeconfig.dev.json
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\bin\Release\netcoreapp2.0\RentalBikeSystem.dll
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\bin\Release\netcoreapp2.0\RentalBikeSystem.pdb
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.AssemblyInfoInputs.cache
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.AssemblyInfo.cs
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.dll
+C:\Users\Philipp Gusenleitner\source\repos\RentalBikeSystem\RentalBikeSystem\obj\Release\netcoreapp2.0\RentalBikeSystem.pdb
